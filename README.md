@@ -29,7 +29,7 @@ to run the second server
 ## API Reference
 
 
-```http
+```bash
  /generate-poster
 ```
 
@@ -40,7 +40,7 @@ to run the second server
 #### Example
 
 
-```http
+```bash
 http://localhost:3000/generate-poster?scale=2x
 ```
 
