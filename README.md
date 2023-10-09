@@ -39,8 +39,16 @@ to run the second server
 
 #### Example
 
-`http://localhost:3000/generate-poster?scale=2x`
+
+```http
+http://localhost:3000/generate-poster?scale=2x
+```
 
 
+### to use it in frontend you can add the img tag with the source
+```html
+<img src="http://localhost:3000/generate-poster?scale=1"
+ alt="Your image description"/>
+```
 
 
