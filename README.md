@@ -26,6 +26,11 @@ to run the second server
 ```bash
   npm run start2
 ```
+
+to run the third server 
+```bash
+  npm run start3
+```
 ## API Reference
 
 
